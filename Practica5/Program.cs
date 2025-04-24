@@ -12,7 +12,7 @@ namespace Practica5
         {
             Console.Write(" Введите значения параметра x = ");
             double x = Convert.ToDouble(Console.ReadLine());
-
+            double f = 3 * Math.Sin(x + 2)
         }
     }
 }
