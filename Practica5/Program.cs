@@ -10,6 +10,9 @@ namespace Practica5
     {
         static void Main(string[] args)
         {
+            Console.Write(" Введите значения параметра x = ");
+            double x = Convert.ToDouble(Console.ReadLine());
+
         }
     }
 }
